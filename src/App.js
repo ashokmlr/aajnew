@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Loading...</h1>
+        <h1>Website is under maintanance</h1>
        
       </header>
     </div>
