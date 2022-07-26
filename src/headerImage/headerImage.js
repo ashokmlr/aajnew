@@ -1,5 +1,5 @@
 import React from "react";
-import hImage from "../assets/hd2.jpg"
+import hImage from "./hd2.jpg"
 import "./headerIm.css"
 
 export const HeaderImage = () => {  
