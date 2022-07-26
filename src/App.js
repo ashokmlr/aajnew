@@ -1,12 +1,11 @@
 import REACT from "react"
-import { HeaderImage } from "./headerImage/headerImage";
 import "./App.css"
 
 function App() {
   return (
-    <>
-     <HeaderImage/>
-    </>
+    <div>
+        <h1>Website is under developement</h1>
+    </div>
   );
 }
 
