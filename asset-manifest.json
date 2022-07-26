@@ -4,10 +4,10 @@
     "main.js": "./static/js/main.caea55fa.js",
     "static/js/787.98a9b128.chunk.js": "./static/js/787.98a9b128.chunk.js",
     "static/media/hd2.jpg": "./static/media/hd2.308e5e398d8c29194439.jpg",
-    "index.html": "/aajnew/index.html",
-    "main.0d716476.css.map": "/aajnew/static/css/main.0d716476.css.map",
-    "main.caea55fa.js.map": "/aajnew/static/js/main.caea55fa.js.map",
-    "787.98a9b128.chunk.js.map": "/aajnew/static/js/787.98a9b128.chunk.js.map"
+    "index.html": "./index.html",
+    "main.0d716476.css.map": "./static/css/main.0d716476.css.map",
+    "main.caea55fa.js.map": "./static/js/main.caea55fa.js.map",
+    "787.98a9b128.chunk.js.map": "./static/js/787.98a9b128.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d716476.css",
