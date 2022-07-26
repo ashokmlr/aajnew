@@ -1,10 +1,12 @@
 import REACT from "react"
 import "./App.css"
 
+import {HeaderImage} from "./headerImage/headerImage"
+
 function App() {
   return (
     <div>
-        <h1>Website is under developement</h1>
+        <HeaderImage/>
     </div>
   );
 }
