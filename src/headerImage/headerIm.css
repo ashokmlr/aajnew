@@ -1,0 +1,30 @@
+.hdim {
+    position: relative;
+}
+
+.hdim h1 {
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 6em;
+    position: absolute;
+    top: 35%;
+    left: 20%;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    font-size: 1.5em;
+    color: #282c34;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#abt {
+    margin-left: 65%;
+}
+
+#ttl {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
