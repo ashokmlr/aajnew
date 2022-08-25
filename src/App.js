@@ -1,14 +1,20 @@
-import REACT from "react"
+import REACT, {useState} from "react"
 import "./App.css"
 
 import {HeaderImage} from "./headerImage/headerImage"
 
 function App() {
-  return (
+  const [ready, setReady] =  useState(false)
+  if(ready) {
     <div>
-        <HeaderImage/>
+      <HeaderImage/>
     </div>
-  );
+  }
+  return (
+    <div className="App">
+      <h1>Under Maintanance</h1>
+    </div>
+  )
 }
 
 export default App;
